@@ -43,6 +43,7 @@ const tabs = [
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
             image="https://placehold.co/400x300"
+            link="https://example.com"
           />
         ))}
       </div>
@@ -60,6 +61,7 @@ const tabs = [
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
             image="https://placehold.co/400x300"
+            link="https://example.com"
           />
         ))}
       </div>
